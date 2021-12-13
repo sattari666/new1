@@ -2,5 +2,9 @@ ad pradzedau
 spakon vjakou
 nam zastalasja spadchina
 pamij svaih i chujakou
+<<<<<<< HEAD
 jana nam laskai matchinaj
 ab ej mne bayuc kazki sny
+=======
+jana nam laskai matchinaj
+>>>>>>> fd979658ceb130876c13f94b4480efd2778c56e2
